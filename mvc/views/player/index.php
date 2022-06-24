@@ -157,7 +157,7 @@ require APPROOT . '/views/includes/header.php';
                 </div>
                 <div class="paging">
                     <div class="paging-left">
-                        Hiển thị 01-20/123 lao động
+                        Hiển thị 10 thông tin 1 trang
                     </div>
                     <div class="paging-center">
                         <a href="<?= $data['type'] ?>&page=1">
@@ -203,13 +203,13 @@ require APPROOT . '/views/includes/header.php';
                     <div class="paging-right">
                         <select class="m-select" name="" id="">
                             <option value="10">
-                                10 lao động/trang
+                                10 thông tin/trang
                             </option>
                             <option value="20">
-                                20 lao động/trang
+                                20 thông tin/trang
                             </option>
                             <option value="50">
-                                50 lao động/trang
+                                50 thông tin/trang
                             </option>
                         </select>
                     </div>

@@ -31,7 +31,7 @@
                     class="m-menu-icon m-icon-20 m-icon-dashboard"
                 ></div>
                 <div class="m-menu-content">
-                    <a href="">Theo dõi đóng</a>
+                    <a href="https://drive.google.com/file/d/14QCCwttPdfV2fMLRGAPNVtpTzVdg24wT/view?usp=sharing" target="blank">Giới thiệu</a>
                 </div>
             </li>
             <li class="m-menu-item">
@@ -39,7 +39,7 @@
                     class="m-menu-icon m-icon-20 m-icon-employee"
                 ></div>
                 <div class="m-menu-content">
-                    <a href="">Quản lý lao động</a>
+                    <a href="#">Quản lý các tài khoản</a>
                 </div>
             </li>
             <li class="m-menu-item">
@@ -47,7 +47,7 @@
                     class="m-menu-icon m-icon-20 m-icon-setting"
                 ></div>
                 <div class="m-menu-content">
-                    <a href="">Thiết lập</a>
+                    <a href="#">Thiết lập</a>
                 </div>
             </li>
             <li>

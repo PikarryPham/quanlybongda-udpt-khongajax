@@ -109,7 +109,7 @@ h1{
         </main>
         <footer>
             <div class="container">
-            Ho Chi Minh University Of Natural Sciences - Copyright &copy; 2012 Pham Ngoc Thuy Trang
+            Ho Chi Minh University Of Natural Sciences - Copyright &copy; 2022 Pham Ngoc Thuy Trang
             </div>
         </footer>
     </body>
