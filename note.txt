@@ -1,0 +1,2 @@
+Vì cần nộp thầy nên mình cần tạo ra thêm folder 18127022_Football, trong folder này, mình sẽ config theo
+yêu cầu của thầy (đổi password của db từ '' thành 'root')
